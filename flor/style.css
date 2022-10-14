@@ -1,0 +1,54 @@
+* {
+  font-family: "Dancing Script", cursive;
+  margin: 10px;
+  padding: 0;
+  background: burlywood;
+}
+
+.link-section {
+  margin: 44px 0 0 32px;
+  color: red;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 700px;
+}
+
+.button {
+  background: brown;
+  width: 120px;
+  height: 29px;
+  border-radius: 20.5px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+  width: 87px;
+  height: 29px;
+}
+.img-logo {
+  width: 500px;
+  height: 500px;
+  margin-left: 0px;
+  margin-right: 86px;
+}
+
+h1 {
+  display: inline-block;
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 122px;
+  color: red;
+}
+
+p,
+div {
+  display: inline-block;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 20px;
+  color: red;
+}
+main {
+  display: inline-block;
+  margin-left: 0px;
+}
